@@ -27,3 +27,5 @@ Ex:
     1. em transferência, deve informar a o valor e também a conta de destino
 
 1. Na resposta do Exercício você deve colocar o link do seu repositório no Git e gravar um vídeo explicando seu código de no máximo 5 minutos. Você pode usar a ferramenta que quiser para gravar o vídeo, sugiro que use o próprio Google Meets e compartilhe o link do vídeo.
+
+[Apresentção](https://drive.google.com/file/d/1_-VigW8rt43jilOq3oDWwn2Bo7FUZFMQ/view?usp=sharing)
